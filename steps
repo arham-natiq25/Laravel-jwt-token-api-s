@@ -1,0 +1,12 @@
+1-make a controller Api Controller  where All methods exists .
+Register
+login
+Refresh
+logout
+profile
+
+2- From this https://jwt-auth.readthedocs.io/en/docs/laravel-installation/ website install jwt
+2- From this https://onlinewebtutorblog.com/laravel-10-restful-apis-with-jwt-authentication/ website install jwt
+
+
+MOofidy User model , Add functions as well as implements with JWT subject
